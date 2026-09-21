@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-21T18:48+03:00">
+  <shop>
+    <name>Prime Records</name>
+    <company>Prime Records</company>
+    <url>https://primerec.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Занятия по вокалу</category>
+      <category id="2">Запись + сведение+ мастеринг + консультация</category>
+      <category id="3">Лицензия</category>
+      <category id="4">Дистрибьюция на цифровые площадки</category>
+      <category id="5">Аренда</category>
+      <category id="6">Производство</category>
+      <category id="7">дизайн</category>
+      <category id="8">Продюсирование</category>
+      <category id="9">Запись</category>
+      <category id="10">Аранжировка</category>
+    </categories>
+    <offers>
+      <offer id="1001" available="true">
+        <url>https://primerec.ru/?utm_source=yandex_business&amp;utm_medium=cpc&amp;utm_campaign=business_55812717&amp;utm_content=service_1001</url>
+        <price>2500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/3911103/2a00000191ae932f4b9e8c33b28f7bb11421/orig</picture>
+        <name>Занятия по студийному вокалу — 1 час</name>
+        <description>Индивидуальные занятия с опытными звукорежиссёрами и вокалистами. Развитие вокальной техники и подготовка к записи треков на оборудовании студии. Цена за 1 час.</description>
+      </offer>
+      <offer id="1002" available="true">
+        <url>https://primerec.ru/?utm_source=yandex_business&amp;utm_medium=cpc&amp;utm_campaign=business_55812717&amp;utm_content=service_1002</url>
+        <price>4000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13488316/2a00000191ae8e05dcf3604e18b3f275d2e5/orig</picture>
+        <name>Звукорежиссёр-аранжировщик — 1 час</name>
+        <description>Час работы со звукорежиссёром-аранжировщиком. В рамках оплаченного времени можно работать над записью, сведением песни или созданием аранжировки.</description>
+      </offer>
+      <offer id="1003" available="true">
+        <url>https://primerec.ru/?utm_source=yandex_business&amp;utm_medium=cpc&amp;utm_campaign=business_55812717&amp;utm_content=service_1003</url>
+        <price>10000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2733259/2a00000191ae8b721d684a9190b90ebe712f/orig</picture>
+        <name>Механическая лицензия на дистрибуцию</name>
+        <description>Оформление механической лицензии для дистрибуции кавер-версии зарубежного трека. Одна лицензия — один трек.</description>
+      </offer>
+      <offer id="1004" available="true">
+        <url>https://primerec.ru/?utm_source=yandex_business&amp;utm_medium=cpc&amp;utm_campaign=business_55812717&amp;utm_content=service_1004</url>
+        <price>2000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2760763/2a00000191a93fc360c2dadbc58bd0eb9277/orig</picture>
+        <name>Дистрибуция одного трека</name>
+        <description>Размещение песни на музыкальных площадках. Цена за один трек.</description>
+      </offer>
+      <offer id="1005" available="true">
+        <url>https://primerec.ru/?utm_source=yandex_business&amp;utm_medium=cpc&amp;utm_campaign=business_55812717&amp;utm_content=service_1005</url>
+        <price>1000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2733259/2a00000191ae86102ce45727dc5c3a14f6c0/orig</picture>
+        <name>Аренда студии звукозаписи — 1 час</name>
+        <description>Почасовая аренда студии для записи, создания аранжировок и творческих сессий. Оборудование: Apple iMac Pro, Antelope Audio Zen Go Synergy Core, Neumann TLM 102. Цена за 1 час аренды.</description>
+      </offer>
+      <offer id="1006" available="true">
+        <url>https://primerec.ru/?utm_source=yandex_business&amp;utm_medium=cpc&amp;utm_campaign=business_55812717&amp;utm_content=service_1006</url>
+        <price>10000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/944742/2a00000191a937b556c0130df918437558c5/orig</picture>
+        <name>Сведение и мастеринг</name>
+        <description>Монтаж и ритмические правки вокала, коррекция нот, сведение, эквализация, компрессия, создание глубины и пространства, авторские эффекты, финализация и мастеринг.</description>
+      </offer>
+      <offer id="1007" available="true">
+        <url>https://primerec.ru/?utm_source=yandex_business&amp;utm_medium=cpc&amp;utm_campaign=business_55812717&amp;utm_content=service_1007</url>
+        <price>2000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2510998/2a00000191ae80b6092e660b7cde4201b563/orig</picture>
+        <name>Дизайн обложки и анимации</name>
+        <description>Создание обложки и анимации для музыкального релиза. Стоимость зависит от пожеланий к оформлению.</description>
+      </offer>
+      <offer id="1008" available="true">
+        <url>https://primerec.ru/producing?utm_source=yandex_business&amp;utm_medium=cpc&amp;utm_campaign=business_55812717&amp;utm_content=service_1008</url>
+        <price>150000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2994796/2a00000191ae810108c9ccd579ccecc91654/orig</picture>
+        <name>Продюсирование артиста — 1 месяц</name>
+        <description>Ежемесячное продюсирование артиста с командой продюсеров, маркетологов и дизайнеров. Цена за 1 месяц.</description>
+      </offer>
+      <offer id="1009" available="true">
+        <url>https://primerec.ru/?utm_source=yandex_business&amp;utm_medium=cpc&amp;utm_campaign=business_55812717&amp;utm_content=service_1009</url>
+        <price>10000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2760763/2a00000191a93fc360c2dadbc58bd0eb9277/orig</picture>
+        <name>Дистрибуция с оформлением релиза</name>
+        <description>Размещение релиза на музыкальных платформах, создание обложки и анимации, оформление релиза и обложки сообщества с премьерой. Привязка сообщества к карточке артиста VK, установка фотографий на стриминговые сервисы и подготовка документов.</description>
+      </offer>
+      <offer id="1010" available="true">
+        <url>https://primerec.ru/?utm_source=yandex_business&amp;utm_medium=cpc&amp;utm_campaign=business_55812717&amp;utm_content=service_1010</url>
+        <price>60000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2899371/2a00000191ae84a79786dba09b2c47869ea4/orig</picture>
+        <name>Песня под ключ</name>
+        <description>Разработка идеи песни, создание текста, мелодии и аранжировки. Демо исполнения для подготовки заказчика к записи. Передача исключительных прав артисту по договору.</description>
+      </offer>
+      <offer id="1011" available="true">
+        <url>https://primerec.ru/?utm_source=yandex_business&amp;utm_medium=cpc&amp;utm_campaign=business_55812717&amp;utm_content=service_1011</url>
+        <price>2000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2701203/2a00000191a94059ba48cf2f942ed2859553/orig</picture>
+        <name>Запись в студии — 1 час</name>
+        <description>Почасовая запись в студии Prime Records. Цена за 1 час записи. Подробный список оборудования доступен на сайте.</description>
+      </offer>
+      <offer id="1012" available="true">
+        <url>https://primerec.ru/?utm_source=yandex_business&amp;utm_medium=cpc&amp;utm_campaign=business_55812717&amp;utm_content=service_1012</url>
+        <price>20000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2757887/2a00000191a9413b19af8392eff0d1f8b2d4/orig</picture>
+        <name>Авторская аранжировка</name>
+        <description>Создание авторской аранжировки: композиционное моделирование и саунд-дизайн проекта. Сессионные музыканты и живые инструменты по желанию. Передача исключительных прав.</description>
+      </offer>
+      <offer id="1013" available="true">
+        <url>https://primerec.ru/?utm_source=yandex_business&amp;utm_medium=cpc&amp;utm_campaign=business_55812717&amp;utm_content=service_1013</url>
+        <price>10000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/10324913/2a00000191ae83725595944657698b415d77/orig</picture>
+        <name>Готовый трек: запись, обработка вокала, сведение и мастеринг</name>
+        <description>Пакет за 10 000 рублей: 1 час записи под готовую минусовку, коррекция нот, обработка вокала, сведение и мастеринг. Готовый трек в течение 5 рабочих дней. Написание текста и музыки в этот пакет не входит.</description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
